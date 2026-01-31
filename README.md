@@ -1,4 +1,4 @@
-# taskmango
+# TaskmanGo
 A tasks/to-do command line app written in Go
 
 This was written as a learning exercise to help me get to know Go (Golang). It is not intended to actually be used by anyone!
